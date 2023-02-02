@@ -1,0 +1,25 @@
+Script started on 2023-02-02 10:42:39+01:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ mv [K[K[Kgit add multirpoc[K[K[K[Kprocessing.txt multirpo[K[K[Kprocessing_01.txt  multiprocessing.t[K[K_02.txt
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git push[K[K[K[Kcommit -m "logs [K"
+[?2004l[main ebb9ebb] logs
+ 3 files changed, 149 insertions(+)
+ create mode 100644 multiprocessing.txt
+ create mode 100644 multiprocessing_01.txt
+ create mode 100644 multiprocessing_02.txt
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git commit -m "logs"add multiprocessing.txt multiprocessing_01.txt multiprocessing_02.txt[A]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ [C[C[C[C[31Pcommit -m "logs"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K`p[K[Kpush
+[?2004lEnumerando objetos: 6, listo.
+Contando objetos:  16% (1/6)Contando objetos:  33% (2/6)Contando objetos:  50% (3/6)Contando objetos:  66% (4/6)Contando objetos:  83% (5/6)Contando objetos: 100% (6/6)Contando objetos: 100% (6/6), listo.
+Compresión delta usando hasta 12 hilos
+Comprimiendo objetos:  25% (1/4)Comprimiendo objetos:  50% (2/4)Comprimiendo objetos:  75% (3/4)Comprimiendo objetos: 100% (4/4)Comprimiendo objetos: 100% (4/4), listo.
+Escribiendo objetos:  20% (1/5)Escribiendo objetos:  40% (2/5)Escribiendo objetos:  60% (3/5)Escribiendo objetos:  80% (4/5)Escribiendo objetos: 100% (5/5)Escribiendo objetos: 100% (5/5), 3.54 KiB | 1.18 MiB/s, listo.
+Total 5 (delta 2), reusados 0 (delta 0), pack-reusados 0
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 1 local object.[K
+To github.com:omamarba/prpa2223-1.git
+   bffc43d..ebb9ebb  main -> main
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git pushcommit -m "logs"push[K[K[K[Kull
+[?2004lYa está actualizado.
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ [?2004l
+exit
+
+Script done on 2023-02-02 10:44:27+01:00 [COMMAND_EXIT_CODE="0"]
