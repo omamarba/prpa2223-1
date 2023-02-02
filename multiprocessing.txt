@@ -1,0 +1,114 @@
+Script started on 2023-02-02 10:05:52+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ ^V[K[7mgit config --global user.name "your_username"[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config --global user.name "your_username"
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Komamarba
+[?2004l[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ git config --global user.mail "omamarba@ucm,[K.es"
+[?2004l[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ git config --global user.mail "omamarba@ucm.es"[9Pname omamarba"" omamarba"[1@ [C[1P[1P[1@m[C[1P[1@e[C[C[1P omamarba"[C omamarba"" omamarba"[C[1Pomamarba"
+[?2004l[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ git clone [7mgit@github.com:omamarba/prpa2223-1.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit@github.com:omamarba/prpa2223-1.git
+[?2004lClonando en 'prpa2223-1'...
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Compressing objects:  50% (1/2)[Kremote: Compressing objects: 100% (2/2)[Kremote: Compressing objects: 100% (2/2), done.[K
+Recibiendo objetos:  33% (1/3)Recibiendo objetos:  66% (2/3)Recibiendo objetos: 100% (3/3)Recibiendo objetos: 100% (3/3), listo.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ ls
+[?2004l[0m[01;34mDescargas[0m            Práctica0_2.cpp                Untitled3.ipynb
+[01;34mDocumentos[0m           [01;34mprpa2223-1[0m                     Untitled4.ipynb
+[01;34mEscritorio[0m           [01;34mPúblico[0m                        Untitled5.ipynb
+[01;34mImágenes[0m             [40;31;01mpyspark[0m                        Untitled.ipynb
+multiprocessing.txt  [01;34msnap[0m                           [01;34mvenv[0m
+[01;34mMúsica[0m               [01;31mspark-3.2.1-bin-hadoop3.2.tgz[0m  [01;34mVídeos[0m
+os                   Untitled1.ipynb
+[01;34mPlantillas[0m           Untitled2.ipynb
+[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ pr[K[Kcd prpa2223.[K1[K-1
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ ls
+[?2004lREADME.md
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git commit [K[K[K[K[K[K[Kinit
+[?2004lReinicializado el repositorio Git existente en /home/alumno/prpa2223-1/.git/
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git .add[K[K[K[Kadd .
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ ^V[K[7mgit commit -m "inserta Mensaje aquí"[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pgit commit -m "inserta Mensaje aquí[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K "prpa"
+[?2004lIdentidad del autor desconocido
+
+*** Por favor cuéntame quién eres.
+
+Ejecuta
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Tu Nombre"
+
+para configurar la identidad por defecto de tu cuenta.
+Omite --global para configurar tu identidad solo en este repositorio.
+
+fatal: no es posible auto-detectar la dirección de correo (se obtuvo 'alumno@aula451.(none)')
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git commit -m "prpa"add .[K[1Pinitls[Kcd prpa2223-1ls[Kgit clone git@github.com:omamarba/prpa2223-1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Ponfig --global user.name "omamarba"mail "omamarba@ucm.es"[9Pname omamarbamail "omamarba@ucm.es"[9Pname omamarba[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Punzip Descargas/ssh.zipgit config --global user.name omamarba"[C" omamarba"
+[?2004lerror: llave inválida: user.name omamarba
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git config --global user.name" omamarba"[1P omamarba"[1P omamarba"e omamarba"[C omamarba"2 omamarba"[1P omamarba"" omamarba"[1Pomamarba"
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git config --global user.name "omamarba"" omamarba"[20Pmmit -m "prpa"add .[K[1Pinitls[Kcd prpa2223-1ls[Kgit clone git@github.com:omamarba/prpa2223-1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Ponfig --global user.name "omamarba"mail "omamarba@ucm.es"
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git config --global user.mail "omamarba@ucm.es"[7Pname "omamarba"" omamarba"[20Pmmit -m "prpa"
+[?2004lIdentidad del autor desconocido
+
+*** Por favor cuéntame quién eres.
+
+Ejecuta
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Tu Nombre"
+
+para configurar la identidad por defecto de tu cuenta.
+Omite --global para configurar tu identidad solo en este repositorio.
+
+fatal: no es posible auto-detectar la dirección de correo (se obtuvo 'alumno@aula451.(none)')
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git commit -m "prpa"nfig --global user.mail "omamarba@ucm.es"
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git config --global user.mail "omamarba@ucm.es"[K[1P"omamarba@ucm.es[1Pomamarba@ucm.es omamarba@ucm.es
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git config --global user.mail omamarba@ucm.es"omamarba@ucm.es"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Pmmit -m "prpa"nfig --global user.mail "omamarba@ucm.es"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27Pmmit -m "prpa"
+[?2004lIdentidad del autor desconocido
+
+*** Por favor cuéntame quién eres.
+
+Ejecuta
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Tu Nombre"
+
+para configurar la identidad por defecto de tu cuenta.
+Omite --global para configurar tu identidad solo en este repositorio.
+
+fatal: no es posible auto-detectar la dirección de correo (se obtuvo 'alumno@aula451.(none)')
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git config --globl[Kal user-email[K[K[K[K[K[K[K[Ker.email "omarm[K[Kmarba@ucm.es"
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git config --global usern[K.name "O[Komamarba"
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git config --global user.name "omamarba"email "omamarba@ucm.es"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[28Pmmit -m "prpa"
+[?2004lEn la rama main
+Tu rama está actualizada con 'origin/main'.
+
+nada para hacer commit, el árbol de trabajo está limpio
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git commit -m "prpa"nfig --global user.name "omamarba"email "omamarba@ucm.es"[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kpush ../.cion[K[K[Konfig/spyder.[K-py3 [K/=[K0_procesos.py
+[?2004lfatal: formato gitfile inválido: ../.config/spyder-py3/0_procesos.py
+fatal: No se pudo leer del repositorio remoto.
+
+Por favor asegúrate de que tengas los permisos de acceso correctos
+y que el repositorio exista.
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ cd ../[K
+[?2004l[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ mv 0_procesos.py /prpa2223-1
+[?2004lmv: no se puede mover '0_procesos.py' a '/prpa2223-1': Permiso denegado
+[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ git push
+[?2004lfatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ git[K[K[Kgit add .
+[?2004lfatal: no es un repositorio git (ni ninguno de los directorios superiores): .git
+[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ cd /prpa223[K23-1
+[?2004lbash: cd: /prpa2223-1: No existe el archivo o el directorio
+[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ cd /prpa2223-1[K[K[K[K[K[K[K[K[K[K
+alumno/     etc/        libx32/     proc/       srv/        
+bin/        home/       lost+found/ root/       sys/        
+boot/       lib/        media/      run/        tmp/        
+cdrom/      lib32/      mnt/        sbin/       usr/        
+dev/        lib64/      opt/        snap/       var/        
+]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ cd /[K/prpa[K[Koc/[K[K[Kpa[K[K[K[K[Kprpa2223-1/
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ cd prpa2223-1//prpa2223-1[5Pgit add .[1Ppush
+[?2004lEverything up-to-date
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git pull
+[?2004lYa está actualizado.
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git add.[K .
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git p[Kcommit -m
+[?2004lerror: switch `m' requiere un valor
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git commit -m[K[K[K
+[?2004layuda: Esperando que tu editor cierre el archivo ... [?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;34H(B[0;7m[ Leyendo... ](B[m[22;31H(B[0;7m[ 15 líneas leídas ](B[m[H(B[0;7m  GNU nano 6.2       /home/alumno/prpa2223-1/.git/COMMIT_EDITMSG                [1;79H(B[m[23d(B[0;7m^G(B[m Ayuda     (B[0;7m^O(B[m Guardar   (B[0;7m^W(B[m Buscar    (B[0;7m^K(B[m Cortar    (B[0;7m^T(B[m Ejecutar  (B[0;7m^C(B[m Ubicación[24d(B[0;7m^X(B[m Salir     (B[0;7m^R(B[m Leer fich.(B[0;7m^\(B[m Reemplazar(B[0;7m^U(B[m Pegar     (B[0;7m^J(B[m Justificar(B[0;7m^/(B[m Ir a línea[3d[36m# Por favor ingresa el mensaje del commit para tus cambios. Las[4d#  líneas que comiencen con '#' serán ignoradas, y un mensa

@@ -1,0 +1,35 @@
+Script started on 2023-02-02 10:39:13+01:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ script multiprocessing.txt[3Punzip Descargas/ssh.zipscript multiprocessing.txt[Kcd ..
+[?2004l[?2004h]0;alumno@aula451: ~[01;32malumno@aula451[00m:[01;34m~[00m$ cd rp[K[Kprpa2223-1/
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git p[Kadd 0:[K_procesos 1_procesos 2_procesos 3_procesos 4[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs  4-[K_procesos
+[?2004lfatal: ruta especificada '0_procesos' no concordó con ningún archivo
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git add 0_procesos 1_procesos 2_procesos 3_procesos 4_procesos.py[A]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ cd prpa2223-1/[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit add 0_procesos 1_procesos 2_procesos 3_procesos 4_procesos.py0[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K.[K.py 1:[K_procesos-[K.py 2_propce[K[K[Kcesos-py 3 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K.3[Kpy 3 _procesos.oy[K[Kpy 4_procesos-[K.py
+[?2004l[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git commit -m "prpa"[K"
+[?2004l[main bffc43d] prpa
+ 5 files changed, 144 insertions(+)
+ create mode 100644 0_procesos.py
+ create mode 100644 1_procesos.py
+ create mode 100644 2_procesos.py
+ create mode 100644 3_procesos.py
+ create mode 100644 4_procesos.py
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git push
+[?2004lEnumerando objetos: 7, listo.
+Contando objetos:  14% (1/7)Contando objetos:  28% (2/7)Contando objetos:  42% (3/7)Contando objetos:  57% (4/7)Contando objetos:  71% (5/7)Contando objetos:  85% (6/7)Contando objetos: 100% (7/7)Contando objetos: 100% (7/7), listo.
+Compresión delta usando hasta 12 hilos
+Comprimiendo objetos:  16% (1/6)Comprimiendo objetos:  33% (2/6)Comprimiendo objetos:  50% (3/6)Comprimiendo objetos:  66% (4/6)Comprimiendo objetos:  83% (5/6)Comprimiendo objetos: 100% (6/6)Comprimiendo objetos: 100% (6/6), listo.
+Escribiendo objetos:  16% (1/6)Escribiendo objetos:  33% (2/6)Escribiendo objetos:  83% (5/6)Escribiendo objetos: 100% (6/6)Escribiendo objetos: 100% (6/6), 1.09 KiB | 1.09 MiB/s, listo.
+Total 6 (delta 3), reusados 0 (delta 0), pack-reusados 0
+remote: Resolving deltas:   0% (0/3)[Kremote: Resolving deltas:  33% (1/3)[Kremote: Resolving deltas:  66% (2/3)[Kremote: Resolving deltas: 100% (3/3)[Kremote: Resolving deltas: 100% (3/3), done.[K
+To github.com:omamarba/prpa2223-1.git
+   12e5b72..bffc43d  main -> main
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ git pull
+[?2004lYa está actualizado.
+[?2004h]0;alumno@aula451: ~/prpa2223-1[01;32malumno@aula451[00m:[01;34m~/prpa2223-1[00m$ [?2004l
+exit
+
+Script done on 2023-02-02 10:42:23+01:00 [COMMAND_EXIT_CODE="0"]
